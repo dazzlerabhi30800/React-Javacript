@@ -1,0 +1,8 @@
+.container{
+    display : flex;
+    min-height : 10vh;
+    background : rgb(65, 64, 64);
+    justify-content : space-around;
+    align-items : center;
+    color : white;
+}
