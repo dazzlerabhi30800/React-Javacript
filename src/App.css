@@ -1,0 +1,12 @@
+.home{
+    min-height : 100vh;
+    background: linear-gradient(to left,rgb(126, 82, 247),rgb(248, 107, 161));
+    color : rgb(241, 239, 239);
+    display : flex;
+    justify-content : space-around;
+    align-items : center;
+}
+
+.active{
+    color : lightcoral;
+}
